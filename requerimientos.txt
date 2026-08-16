@@ -1,3 +1,4 @@
-pillow==12.2.0
-Django==6.0.1
+pillow==10.4.0
+Django==4.2.16
 django-ckeditor==6.7.3
+PyMySQL==1.1.1
